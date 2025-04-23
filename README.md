@@ -1,12 +1,10 @@
-# Netflix Navigator: A Data-Driven Content Optimization Dashboard
+# Netflix Navigator: A Data-Driven Content Dashboard
 
 ## Overview
 
 This repository contains the dataset and information related to the Tableau dashboard visualization of Netflix shows and movies. The dashboard offers insights into various metrics, including the type, release year, rating, and country distribution of Netflix content.
 
 ## Dashboard
-
-Dashboard Link - [Netflix Dashboard](https://public.tableau.com/app/profile/shweta.vinod.kulkarni2486/viz/Netflix_Dashboard_17178823694320/Netflix)
 
 <img src="Netflix_Dashboard.jpg">
 
